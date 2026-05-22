@@ -18,7 +18,8 @@ Run `optics_final.py` directly to reproduce the clustering results.
 
 ## Parameter Tuning
 The core clustering function is defined in line 630 of the code:
+Parameters  min_samples  and  xi  can be adjusted for comparative experiments of clustering performance.
 ```python
 clustering_result = perform_optics_clustering(X_windows, min_samples=10, xi=0.05)
 
-Parameters  min_samples  and  xi  can be adjusted for comparative experiments of clustering performance.
+
