@@ -9,5 +9,10 @@ This project reproduces the application of the OPTICS density clustering algorit
 - Python 3.x
 - scikit‑learn, numpy, matplotlib
 
+## Dataset
+This project uses ocean microstructure observation data for OPTICS clustering analysis.
+Raw dataset: [Ocean‑Microstructure‑Observation‑Dataset](https://pan.baidu.com/s/1JkAZcloi1SbaxXhkxnBMsw?pwd=1111)
+
 ## Usage
 Run `optics_final.py` directly to reproduce the clustering results.
+
